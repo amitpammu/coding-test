@@ -8,7 +8,7 @@ Requirements
 Step 1: Install dependencies `npm install`
 
 Step 2: Create User with POST /users
-        Sameple Request JSON
+        Sample Request JSON
         `{
         "email":"test@test.com",
         "password":"test123"
